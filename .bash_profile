@@ -1,0 +1,1 @@
+export PATH=${PATH}:/Users/pengshan/Library/SDK/platform-tools
